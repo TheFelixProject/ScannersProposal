@@ -36,11 +36,13 @@ This system should provide useful data straight away, but the data it is collect
 
 Ideas include:
 
-* Live inventory: There could be a live inventory of food that has been picked-up and delivered to a warehouse. This may help with planning and even distributing excess goods between the different food-bank depot's.
+* Live inventory: There could be a live inventory of food that has been picked-up and delivered to a warehouse. This may help with planning and even distributing excess goods between the different food-bank depot's. Charities could then browse live inventory to see which food bank provides the items they are missing and request it from them.
+* Live requests: Charities could post the food they are desperately in need of and the supermarkets can decide whether they want to donate the relevant supplies.
 * Identifying Trends: Being able to pick up on any natural trends in what excess food might be available to pick up different days of the week or times of the year may help with planning.
 * Just-in-time delivery: If/Once trends are identified in food colleciton and delivery. Warehouse space might be saved by predicting pick-ups and deliveries and missing out warehouses.
 * Tracking of fresh goods: Once bedded in, the system will show it can help reliably track fresh goods in such a way that it may help with the legislation behind transporting meat produce.
-
+* Logistics optimization: With a live inventory list and supplies assigned to different charities, we can optimise the deliveries by minimising the trip length of each truck and thus saving on fuel cost.
+* Impact measurement: We can track the number of goods supplied each day. To get an idea of how many people were fed, we could ask charities to submit the number of people they fed with the supplied goods into the database each day or we can possibly measure the number of calories of food supplied each day (depending on access to other databases which provide calorie information).
 
 ## Costs
 
